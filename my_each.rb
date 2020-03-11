@@ -8,5 +8,6 @@ def my_each(num)
   
    array
   else
+    return 
   
 end
